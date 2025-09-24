@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dx+U0oDQiwU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renita\\Documents\\DEAKINSIT771Code\\PasswordManager\\PasswordManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renita\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Renita\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
